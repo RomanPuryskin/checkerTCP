@@ -7,5 +7,5 @@
    docker-compose up -d
 
 2) Запускаем клиент (CLI)
-   - командой ./cmd/client/main.go
+   - командой go run ./cmd/client/main.go
    - или в корне проекта выполнить команду make build  -> запускаем бинарник из папки ./bin
